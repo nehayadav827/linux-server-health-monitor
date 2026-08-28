@@ -187,7 +187,7 @@ input validation without writing your own error-checking code.
 
 ---
 
-## 5. Talking Points for the Interview
+## 5.Key Decisions
 
 - "I separated data collection from display so the tool could later log
   to a file or serve an API without rewriting the monitoring logic."

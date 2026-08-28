@@ -6,8 +6,7 @@ the system is **HEALTHY** or needs a **WARNING**.
 
 ## Why I Built This
 
-I built this project to demonstrate practical, hands-on skills relevant to a
-**Data Center Technician** role: Linux systems, basic scripting, resource
+I built this project to demonstrate practical, hands-on skills on Linux systems, basic scripting, resource
 monitoring, and troubleshooting. Rather than build something overly complex,
 I wanted a small tool I could fully understand, explain line-by-line, and
 extend later.
